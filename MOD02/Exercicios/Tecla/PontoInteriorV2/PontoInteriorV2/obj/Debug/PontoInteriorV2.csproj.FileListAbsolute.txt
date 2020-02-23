@@ -1,0 +1,6 @@
+C:\Users\Rafael\Desktop\EscolaMOD02\PontoInteriorV2\PontoInteriorV2\bin\Debug\PontoInteriorV2.exe.config
+C:\Users\Rafael\Desktop\EscolaMOD02\PontoInteriorV2\PontoInteriorV2\bin\Debug\PontoInteriorV2.exe
+C:\Users\Rafael\Desktop\EscolaMOD02\PontoInteriorV2\PontoInteriorV2\bin\Debug\PontoInteriorV2.pdb
+C:\Users\Rafael\Desktop\EscolaMOD02\PontoInteriorV2\PontoInteriorV2\obj\Debug\PontoInteriorV2.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\EscolaMOD02\PontoInteriorV2\PontoInteriorV2\obj\Debug\PontoInteriorV2.exe
+C:\Users\Rafael\Desktop\EscolaMOD02\PontoInteriorV2\PontoInteriorV2\obj\Debug\PontoInteriorV2.pdb

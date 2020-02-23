@@ -1,0 +1,6 @@
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD04\Vetores\Caracteres\Caracteres\bin\Debug\Caracteres.exe.config
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD04\Vetores\Caracteres\Caracteres\bin\Debug\Caracteres.exe
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD04\Vetores\Caracteres\Caracteres\bin\Debug\Caracteres.pdb
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD04\Vetores\Caracteres\Caracteres\obj\Debug\Caracteres.csprojAssemblyReference.cache
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD04\Vetores\Caracteres\Caracteres\obj\Debug\Caracteres.exe
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD04\Vetores\Caracteres\Caracteres\obj\Debug\Caracteres.pdb

@@ -1,0 +1,11 @@
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD05\Estrutras\Introducao\Introducao\bin\Debug\netcoreapp3.1\Introducao.exe
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD05\Estrutras\Introducao\Introducao\bin\Debug\netcoreapp3.1\Introducao.deps.json
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD05\Estrutras\Introducao\Introducao\bin\Debug\netcoreapp3.1\Introducao.runtimeconfig.json
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD05\Estrutras\Introducao\Introducao\bin\Debug\netcoreapp3.1\Introducao.runtimeconfig.dev.json
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD05\Estrutras\Introducao\Introducao\bin\Debug\netcoreapp3.1\Introducao.dll
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD05\Estrutras\Introducao\Introducao\bin\Debug\netcoreapp3.1\Introducao.pdb
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD05\Estrutras\Introducao\Introducao\obj\Debug\netcoreapp3.1\Introducao.csprojAssemblyReference.cache
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD05\Estrutras\Introducao\Introducao\obj\Debug\netcoreapp3.1\Introducao.AssemblyInfoInputs.cache
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD05\Estrutras\Introducao\Introducao\obj\Debug\netcoreapp3.1\Introducao.AssemblyInfo.cs
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD05\Estrutras\Introducao\Introducao\obj\Debug\netcoreapp3.1\Introducao.dll
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD05\Estrutras\Introducao\Introducao\obj\Debug\netcoreapp3.1\Introducao.pdb

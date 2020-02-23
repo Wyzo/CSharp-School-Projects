@@ -1,0 +1,6 @@
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\Parametros\Parametros\bin\Debug\Parametros.exe.config
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\Parametros\Parametros\bin\Debug\Parametros.exe
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\Parametros\Parametros\bin\Debug\Parametros.pdb
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\Parametros\Parametros\obj\Debug\Parametros.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\Parametros\Parametros\obj\Debug\Parametros.exe
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\Parametros\Parametros\obj\Debug\Parametros.pdb

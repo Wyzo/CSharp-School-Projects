@@ -1,0 +1,6 @@
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\AplicacoesBancarias\AplicacoesBancarias\bin\Debug\AplicacoesBancarias.exe.config
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\AplicacoesBancarias\AplicacoesBancarias\bin\Debug\AplicacoesBancarias.exe
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\AplicacoesBancarias\AplicacoesBancarias\bin\Debug\AplicacoesBancarias.pdb
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\AplicacoesBancarias\AplicacoesBancarias\obj\Debug\AplicacoesBancarias.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\AplicacoesBancarias\AplicacoesBancarias\obj\Debug\AplicacoesBancarias.exe
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\AplicacoesBancarias\AplicacoesBancarias\obj\Debug\AplicacoesBancarias.pdb

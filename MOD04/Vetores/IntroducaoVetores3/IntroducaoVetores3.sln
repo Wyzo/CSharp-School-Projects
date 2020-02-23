@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroducaoVetores3", "IntroducaoVetores3\IntroducaoVetores3.csproj", "{694ADF3D-4597-4C86-B689-C1E5D67A96F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{694ADF3D-4597-4C86-B689-C1E5D67A96F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{694ADF3D-4597-4C86-B689-C1E5D67A96F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{694ADF3D-4597-4C86-B689-C1E5D67A96F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{694ADF3D-4597-4C86-B689-C1E5D67A96F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D388B9E-E571-4B43-BCA2-E6C2C1DE0304}
+	EndGlobalSection
+EndGlobal

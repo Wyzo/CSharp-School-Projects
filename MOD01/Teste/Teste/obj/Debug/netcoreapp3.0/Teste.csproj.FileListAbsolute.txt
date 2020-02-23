@@ -1,0 +1,11 @@
+C:\Users\Rafael\Desktop\Teste\Teste\bin\Debug\netcoreapp3.0\Teste.exe
+C:\Users\Rafael\Desktop\Teste\Teste\bin\Debug\netcoreapp3.0\Teste.deps.json
+C:\Users\Rafael\Desktop\Teste\Teste\bin\Debug\netcoreapp3.0\Teste.runtimeconfig.json
+C:\Users\Rafael\Desktop\Teste\Teste\bin\Debug\netcoreapp3.0\Teste.runtimeconfig.dev.json
+C:\Users\Rafael\Desktop\Teste\Teste\bin\Debug\netcoreapp3.0\Teste.dll
+C:\Users\Rafael\Desktop\Teste\Teste\bin\Debug\netcoreapp3.0\Teste.pdb
+C:\Users\Rafael\Desktop\Teste\Teste\obj\Debug\netcoreapp3.0\Teste.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Teste\Teste\obj\Debug\netcoreapp3.0\Teste.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Teste\Teste\obj\Debug\netcoreapp3.0\Teste.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Teste\Teste\obj\Debug\netcoreapp3.0\Teste.dll
+C:\Users\Rafael\Desktop\Teste\Teste\obj\Debug\netcoreapp3.0\Teste.pdb

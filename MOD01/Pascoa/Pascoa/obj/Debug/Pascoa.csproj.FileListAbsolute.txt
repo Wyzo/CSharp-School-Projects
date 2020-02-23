@@ -1,0 +1,6 @@
+C:\Users\Rafael\Desktop\Escola\Pascoa\Pascoa\bin\Debug\Pascoa.exe.config
+C:\Users\Rafael\Desktop\Escola\Pascoa\Pascoa\bin\Debug\Pascoa.exe
+C:\Users\Rafael\Desktop\Escola\Pascoa\Pascoa\bin\Debug\Pascoa.pdb
+C:\Users\Rafael\Desktop\Escola\Pascoa\Pascoa\obj\Debug\Pascoa.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Escola\Pascoa\Pascoa\obj\Debug\Pascoa.exe
+C:\Users\Rafael\Desktop\Escola\Pascoa\Pascoa\obj\Debug\Pascoa.pdb

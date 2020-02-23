@@ -1,0 +1,6 @@
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\Desafio02_08\Desafio02_08\bin\Debug\Desafio02_08.exe.config
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\Desafio02_08\Desafio02_08\bin\Debug\Desafio02_08.exe
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\Desafio02_08\Desafio02_08\bin\Debug\Desafio02_08.pdb
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\Desafio02_08\Desafio02_08\obj\Debug\Desafio02_08.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\Desafio02_08\Desafio02_08\obj\Debug\Desafio02_08.exe
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\Desafio02_08\Desafio02_08\obj\Debug\Desafio02_08.pdb

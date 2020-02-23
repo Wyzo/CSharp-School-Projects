@@ -1,0 +1,6 @@
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\DiaDeNascimento\DiaDeNascimento\bin\Debug\DiaDeNascimento.exe.config
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\DiaDeNascimento\DiaDeNascimento\bin\Debug\DiaDeNascimento.exe
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\DiaDeNascimento\DiaDeNascimento\bin\Debug\DiaDeNascimento.pdb
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\DiaDeNascimento\DiaDeNascimento\obj\Debug\DiaDeNascimento.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\DiaDeNascimento\DiaDeNascimento\obj\Debug\DiaDeNascimento.exe
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\DiaDeNascimento\DiaDeNascimento\obj\Debug\DiaDeNascimento.pdb

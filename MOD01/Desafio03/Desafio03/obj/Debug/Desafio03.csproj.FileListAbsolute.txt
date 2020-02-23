@@ -1,0 +1,6 @@
+C:\Users\Rafael\Desktop\Escola\Desafio03\Desafio03\bin\Debug\Desafio03.exe.config
+C:\Users\Rafael\Desktop\Escola\Desafio03\Desafio03\bin\Debug\Desafio03.exe
+C:\Users\Rafael\Desktop\Escola\Desafio03\Desafio03\bin\Debug\Desafio03.pdb
+C:\Users\Rafael\Desktop\Escola\Desafio03\Desafio03\obj\Debug\Desafio03.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Escola\Desafio03\Desafio03\obj\Debug\Desafio03.exe
+C:\Users\Rafael\Desktop\Escola\Desafio03\Desafio03\obj\Debug\Desafio03.pdb

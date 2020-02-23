@@ -1,0 +1,11 @@
+C:\Users\Rafael\Desktop\Escola\CalculaAreaTriangulo\CalculaAreaTriangulo\bin\Debug\netcoreapp3.0\CalculaAreaTriangulo.exe
+C:\Users\Rafael\Desktop\Escola\CalculaAreaTriangulo\CalculaAreaTriangulo\bin\Debug\netcoreapp3.0\CalculaAreaTriangulo.deps.json
+C:\Users\Rafael\Desktop\Escola\CalculaAreaTriangulo\CalculaAreaTriangulo\bin\Debug\netcoreapp3.0\CalculaAreaTriangulo.runtimeconfig.json
+C:\Users\Rafael\Desktop\Escola\CalculaAreaTriangulo\CalculaAreaTriangulo\bin\Debug\netcoreapp3.0\CalculaAreaTriangulo.runtimeconfig.dev.json
+C:\Users\Rafael\Desktop\Escola\CalculaAreaTriangulo\CalculaAreaTriangulo\bin\Debug\netcoreapp3.0\CalculaAreaTriangulo.dll
+C:\Users\Rafael\Desktop\Escola\CalculaAreaTriangulo\CalculaAreaTriangulo\bin\Debug\netcoreapp3.0\CalculaAreaTriangulo.pdb
+C:\Users\Rafael\Desktop\Escola\CalculaAreaTriangulo\CalculaAreaTriangulo\obj\Debug\netcoreapp3.0\CalculaAreaTriangulo.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Escola\CalculaAreaTriangulo\CalculaAreaTriangulo\obj\Debug\netcoreapp3.0\CalculaAreaTriangulo.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Escola\CalculaAreaTriangulo\CalculaAreaTriangulo\obj\Debug\netcoreapp3.0\CalculaAreaTriangulo.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Escola\CalculaAreaTriangulo\CalculaAreaTriangulo\obj\Debug\netcoreapp3.0\CalculaAreaTriangulo.dll
+C:\Users\Rafael\Desktop\Escola\CalculaAreaTriangulo\CalculaAreaTriangulo\obj\Debug\netcoreapp3.0\CalculaAreaTriangulo.pdb

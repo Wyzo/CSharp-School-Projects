@@ -1,0 +1,5 @@
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD04\Vetores\Concatenacao\Concatenacao\bin\Debug\Concatenacao.exe.config
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD04\Vetores\Concatenacao\Concatenacao\bin\Debug\Concatenacao.exe
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD04\Vetores\Concatenacao\Concatenacao\bin\Debug\Concatenacao.pdb
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD04\Vetores\Concatenacao\Concatenacao\obj\Debug\Concatenacao.exe
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD04\Vetores\Concatenacao\Concatenacao\obj\Debug\Concatenacao.pdb

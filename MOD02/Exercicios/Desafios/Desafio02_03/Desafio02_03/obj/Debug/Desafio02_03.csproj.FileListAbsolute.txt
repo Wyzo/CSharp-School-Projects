@@ -1,0 +1,6 @@
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Desafios\Desafio02_03\Desafio02_03\bin\Debug\Desafio02_03.exe.config
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Desafios\Desafio02_03\Desafio02_03\bin\Debug\Desafio02_03.exe
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Desafios\Desafio02_03\Desafio02_03\bin\Debug\Desafio02_03.pdb
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Desafios\Desafio02_03\Desafio02_03\obj\Debug\Desafio02_03.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Desafios\Desafio02_03\Desafio02_03\obj\Debug\Desafio02_03.exe
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Desafios\Desafio02_03\Desafio02_03\obj\Debug\Desafio02_03.pdb

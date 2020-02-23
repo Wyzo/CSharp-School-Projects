@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a38a273-e226-4f5b-aa1c-0e3f2de0174a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Desafios/10H-N4-PROGRAMA20.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/AplicacoesBancarias/.vs/AplicacoesBancarias/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/AplicacoesBancarias/.vs/AplicacoesBancarias/v16/Server/sqlite3/db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/AplicacoesBancarias/.vs/AplicacoesBancarias/v16/Server/sqlite3/storage.ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/AplicacoesBancarias/AplicacoesBancarias.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/AplicacoesBancarias/AplicacoesBancarias/AplicacoesBancarias.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/AplicacoesBancarias/AplicacoesBancarias/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/AplicacoesBancarias/AplicacoesBancarias/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/AplicacoesBancarias/AplicacoesBancarias/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/AplicacoesBancarias/AplicacoesBancarias/bin/Debug/AplicacoesBancarias.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/AplicacoesBancarias/AplicacoesBancarias/bin/Debug/AplicacoesBancarias.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/AplicacoesBancarias/AplicacoesBancarias/bin/Debug/AplicacoesBancarias.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/AplicacoesBancarias/AplicacoesBancarias/obj/Debug/AplicacoesBancarias.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/AplicacoesBancarias/AplicacoesBancarias/obj/Debug/AplicacoesBancarias.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/AplicacoesBancarias/AplicacoesBancarias/obj/Debug/AplicacoesBancarias.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/AplicacoesBancarias/AplicacoesBancarias/obj/Debug/AplicacoesBancarias.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/AplicacoesBancarias/AplicacoesBancarias/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Ciclos2/.vs/Ciclos2/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MOD02/Exercicios/Ciclos2/.vs/Ciclos2/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Ciclos2/.vs/Ciclos2/v16/Server/sqlite3/storage.ide" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MOD02/Exercicios/Ciclos2/.vs/Ciclos2/v16/Server/sqlite3/storage.ide" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Ciclos2/Ciclos2/bin/Debug/Ciclos2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MOD02/Exercicios/Ciclos2/Ciclos2/bin/Debug/Ciclos2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Ciclos2/Ciclos2/bin/Debug/Ciclos2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MOD02/Exercicios/Ciclos2/Ciclos2/bin/Debug/Ciclos2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Ciclos2/Ciclos2/obj/Debug/Ciclos2.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MOD02/Exercicios/Ciclos2/Ciclos2/obj/Debug/Ciclos2.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Ciclos2/Ciclos2/obj/Debug/Ciclos2.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MOD02/Exercicios/Ciclos2/Ciclos2/obj/Debug/Ciclos2.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Ciclos2/Ciclos2/obj/Debug/Ciclos2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MOD02/Exercicios/Ciclos2/Ciclos2/obj/Debug/Ciclos2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Ciclos2/Ciclos2/obj/Debug/Ciclos2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../MOD02/Exercicios/Ciclos2/Ciclos2/obj/Debug/Ciclos2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/ConsoleApp1/.vs/ConsoleApp1/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/ConsoleApp1/.vs/ConsoleApp1/v16/Server/sqlite3/db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/ConsoleApp1/.vs/ConsoleApp1/v16/Server/sqlite3/storage.ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/ConsoleApp1/ConsoleApp1.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/ConsoleApp1/ConsoleApp1/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/ConsoleApp1/ConsoleApp1/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/ConsoleApp1/ConsoleApp1/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/ConsoleApp1/ConsoleApp1/obj/Debug/ConsoleApp1.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/ConsoleApp1/ConsoleApp1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/10H-N08-PROGRAMA01.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/DES02_1/.vs/DES02_1/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/DES02_1/.vs/DES02_1/v16/Server/sqlite3/db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/DES02_1/.vs/DES02_1/v16/Server/sqlite3/storage.ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/DES02_1/DES02_1.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/DES02_1/DES02_1/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/DES02_1/DES02_1/DES02_1.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/DES02_1/DES02_1/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/DES02_1/DES02_1/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/DES02_1/DES02_1/bin/Debug/DES02_1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/DES02_1/DES02_1/bin/Debug/DES02_1.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/DES02_1/DES02_1/bin/Debug/DES02_1.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/DES02_1/DES02_1/obj/Debug/DES02_1.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/DES02_1/DES02_1/obj/Debug/DES02_1.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/DES02_1/DES02_1/obj/Debug/DES02_1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/DES02_1/DES02_1/obj/Debug/DES02_1.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/DES02_1/DES02_1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/DES02_2/.vs/DES02_2/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/DES02_2/.vs/DES02_2/v16/Server/sqlite3/db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/DES02_2/.vs/DES02_2/v16/Server/sqlite3/storage.ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/DES02_2/DES02_2.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/DES02_2/DES02_2/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/DES02_2/DES02_2/DES02_2.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/DES02_2/DES02_2/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/DES02_2/DES02_2/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/DES02_2/DES02_2/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/ProximaSementeira/.vs/ProximaSementeira/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/ProximaSementeira/.vs/ProximaSementeira/v16/Server/sqlite3/db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/ProximaSementeira/.vs/ProximaSementeira/v16/Server/sqlite3/storage.ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/ProximaSementeira/ProximaSementeira.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/ProximaSementeira/ProximaSementeira/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/ProximaSementeira/ProximaSementeira/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/ProximaSementeira/ProximaSementeira/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/ProximaSementeira/ProximaSementeira/ProximaSementeira.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/ProximaSementeira/ProximaSementeira/bin/Debug/ProximaSementeira.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/ProximaSementeira/ProximaSementeira/bin/Debug/ProximaSementeira.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/ProximaSementeira/ProximaSementeira/bin/Debug/ProximaSementeira.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/ProximaSementeira/ProximaSementeira/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/ProximaSementeira/ProximaSementeira/obj/Debug/ProximaSementeira.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/ProximaSementeira/ProximaSementeira/obj/Debug/ProximaSementeira.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/ProximaSementeira/ProximaSementeira/obj/Debug/ProximaSementeira.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Desafios/ProximaSementeira/ProximaSementeira/obj/Debug/ProximaSementeira.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/M02_Saudação/.vs/M02_Saudação/DesignTimeBuild/.dtbcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/M02_Saudação/.vs/M02_Saudação/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/M02_Saudação/.vs/M02_Saudação/v16/Server/sqlite3/db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/M02_Saudação/.vs/M02_Saudação/v16/Server/sqlite3/storage.ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/M02_Saudação/M02_Saudação.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/M02_Saudação/M02_Saudação/M02_Saudação.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/M02_Saudação/M02_Saudação/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/M02_Saudação/M02_Saudação/obj/Debug/netcoreapp3.0/M02_Saudação.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/M02_Saudação/M02_Saudação/obj/Debug/netcoreapp3.0/M02_Saudação.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/M02_Saudação/M02_Saudação/obj/Debug/netcoreapp3.0/M02_Saudação.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/M02_Saudação/M02_Saudação/obj/Debug/netcoreapp3.0/M02_Saudação.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/M02_Saudação/M02_Saudação/obj/M02_Saudação.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/M02_Saudação/M02_Saudação/obj/M02_Saudação.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/M02_Saudação/M02_Saudação/obj/M02_Saudação.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/M02_Saudação/M02_Saudação/obj/M02_Saudação.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/M02_Saudação/M02_Saudação/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/M02_sau/.vs/M02_sau/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/M02_sau/.vs/M02_sau/v16/Server/sqlite3/db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/M02_sau/.vs/M02_sau/v16/Server/sqlite3/storage.ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/M02_sau/M02_sau.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/M02_sau/M02_sau/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/M02_sau/M02_sau/M02_sau.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/M02_sau/M02_sau/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/M02_sau/M02_sau/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/M02_sau/M02_sau/bin/Debug/M02_sau.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/M02_sau/M02_sau/bin/Debug/M02_sau.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/M02_sau/M02_sau/bin/Debug/M02_sau.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/M02_sau/M02_sau/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/M02_sau/M02_sau/obj/Debug/M02_sau.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/M02_sau/M02_sau/obj/Debug/M02_sau.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/M02_sau/M02_sau/obj/Debug/M02_sau.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/M02_sau/M02_sau/obj/Debug/M02_sau.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/NumPrimo/.vs/NumPrimo/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/NumPrimo/.vs/NumPrimo/v16/Server/sqlite3/db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/NumPrimo/.vs/NumPrimo/v16/Server/sqlite3/storage.ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/NumPrimo/NumPrimo.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/NumPrimo/NumPrimo/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/NumPrimo/NumPrimo/NumPrimo.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/NumPrimo/NumPrimo/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/NumPrimo/NumPrimo/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/NumPrimo/NumPrimo/bin/Debug/NumPrimo.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/NumPrimo/NumPrimo/bin/Debug/NumPrimo.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/NumPrimo/NumPrimo/bin/Debug/NumPrimo.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/NumPrimo/NumPrimo/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/NumPrimo/NumPrimo/obj/Debug/NumPrimo.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/NumPrimo/NumPrimo/obj/Debug/NumPrimo.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/NumPrimo/NumPrimo/obj/Debug/NumPrimo.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/NumPrimo/NumPrimo/obj/Debug/NumPrimo.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/PontoInterior/.vs/PontoInterior/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/PontoInterior/.vs/PontoInterior/v16/Server/sqlite3/db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/PontoInterior/.vs/PontoInterior/v16/Server/sqlite3/storage.ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/PontoInterior/PontoInterior.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/PontoInterior/PontoInterior/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/PontoInterior/PontoInterior/PontoInterior.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/PontoInterior/PontoInterior/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/PontoInterior/PontoInterior/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/PontoInterior/PontoInterior/bin/Debug/PontoInterior.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/PontoInterior/PontoInterior/bin/Debug/PontoInterior.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/PontoInterior/PontoInterior/bin/Debug/PontoInterior.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/PontoInterior/PontoInterior/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/PontoInterior/PontoInterior/obj/Debug/PontoInterior.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/PontoInterior/PontoInterior/obj/Debug/PontoInterior.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/PontoInterior/PontoInterior/obj/Debug/PontoInterior.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/PontoInterior/PontoInterior/obj/Debug/PontoInterior.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/PontoInteriorV2/.vs/PontoInteriorV2/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/PontoInteriorV2/.vs/PontoInteriorV2/v16/Server/sqlite3/db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/PontoInteriorV2/.vs/PontoInteriorV2/v16/Server/sqlite3/storage.ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/PontoInteriorV2/PontoInteriorV2.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/PontoInteriorV2/PontoInteriorV2/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/PontoInteriorV2/PontoInteriorV2/PontoInteriorV2.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/PontoInteriorV2/PontoInteriorV2/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/PontoInteriorV2/PontoInteriorV2/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/PontoInteriorV2/PontoInteriorV2/bin/Debug/PontoInteriorV2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/PontoInteriorV2/PontoInteriorV2/bin/Debug/PontoInteriorV2.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/PontoInteriorV2/PontoInteriorV2/bin/Debug/PontoInteriorV2.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/PontoInteriorV2/PontoInteriorV2/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/PontoInteriorV2/PontoInteriorV2/obj/Debug/PontoInteriorV2.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/PontoInteriorV2/PontoInteriorV2/obj/Debug/PontoInteriorV2.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/PontoInteriorV2/PontoInteriorV2/obj/Debug/PontoInteriorV2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/PontoInteriorV2/PontoInteriorV2/obj/Debug/PontoInteriorV2.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Poupanca/.vs/Poupanca/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Poupanca/.vs/Poupanca/v16/Server/sqlite3/db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Poupanca/.vs/Poupanca/v16/Server/sqlite3/storage.ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Poupanca/Poupanca.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Poupanca/Poupanca/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Poupanca/Poupanca/Poupanca.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Poupanca/Poupanca/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Poupanca/Poupanca/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Poupanca/Poupanca/bin/Debug/Poupanca.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Poupanca/Poupanca/bin/Debug/Poupanca.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Poupanca/Poupanca/bin/Debug/Poupanca.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Poupanca/Poupanca/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Poupanca/Poupanca/obj/Debug/Poupanca.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Poupanca/Poupanca/obj/Debug/Poupanca.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Poupanca/Poupanca/obj/Debug/Poupanca.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Poupanca/Poupanca/obj/Debug/Poupanca.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Premio/.vs/Premio/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Premio/.vs/Premio/v16/Server/sqlite3/db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Premio/.vs/Premio/v16/Server/sqlite3/storage.ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Premio/Premio.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Premio/Premio/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Premio/Premio/Premio.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Premio/Premio/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Premio/Premio/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Premio/Premio/bin/Debug/Premio.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Premio/Premio/bin/Debug/Premio.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Premio/Premio/bin/Debug/Premio.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Premio/Premio/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Premio/Premio/obj/Debug/Premio.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Premio/Premio/obj/Debug/Premio.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Premio/Premio/obj/Debug/Premio.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Premio/Premio/obj/Debug/Premio.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Retangulo/.vs/Retangulo/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Retangulo/.vs/Retangulo/v16/Server/sqlite3/db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Retangulo/.vs/Retangulo/v16/Server/sqlite3/storage.ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Retangulo/Retangulo.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Retangulo/Retangulo/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Retangulo/Retangulo/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Retangulo/Retangulo/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Retangulo/Retangulo/Retangulo.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Retangulo/Retangulo/bin/Debug/Retangulo.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Retangulo/Retangulo/bin/Debug/Retangulo.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Retangulo/Retangulo/bin/Debug/Retangulo.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Retangulo/Retangulo/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Retangulo/Retangulo/obj/Debug/Retangulo.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Retangulo/Retangulo/obj/Debug/Retangulo.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Retangulo/Retangulo/obj/Debug/Retangulo.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Retangulo/Retangulo/obj/Debug/Retangulo.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Tabuada/.vs/Tabuada/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Tabuada/.vs/Tabuada/v16/Server/sqlite3/db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Tabuada/.vs/Tabuada/v16/Server/sqlite3/storage.ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Tabuada/Tabuada.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Tabuada/Tabuada/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Tabuada/Tabuada/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Tabuada/Tabuada/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Tabuada/Tabuada/Tabuada.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Tabuada/Tabuada/bin/Debug/Tabuada.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Tabuada/Tabuada/bin/Debug/Tabuada.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Tabuada/Tabuada/bin/Debug/Tabuada.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Tabuada/Tabuada/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Tabuada/Tabuada/obj/Debug/Tabuada.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Tabuada/Tabuada/obj/Debug/Tabuada.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Tabuada/Tabuada/obj/Debug/Tabuada.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Tabuada/Tabuada/obj/Debug/Tabuada.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Universidade/.vs/Universidade/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Universidade/.vs/Universidade/v16/Server/sqlite3/db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Universidade/.vs/Universidade/v16/Server/sqlite3/storage.ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Universidade/.vs/VSWorkspaceState.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Universidade/.vs/slnx.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Universidade/Universidade.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Universidade/Universidade/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Universidade/Universidade/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Universidade/Universidade/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Universidade/Universidade/Universidade.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Universidade/Universidade/bin/Debug/Universidade.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Universidade/Universidade/bin/Debug/Universidade.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Universidade/Universidade/bin/Debug/Universidade.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Universidade/Universidade/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Universidade/Universidade/obj/Debug/Universidade.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Universidade/Universidade/obj/Debug/Universidade.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Universidade/Universidade/obj/Debug/Universidade.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/Universidade/Universidade/obj/Debug/Universidade.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/WhileExemplo/.vs/WhileExemplo/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/WhileExemplo/.vs/WhileExemplo/v16/Server/sqlite3/db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/WhileExemplo/.vs/WhileExemplo/v16/Server/sqlite3/storage.ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/WhileExemplo/WhileExemplo.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/WhileExemplo/WhileExemplo/App.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/WhileExemplo/WhileExemplo/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/WhileExemplo/WhileExemplo/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/WhileExemplo/WhileExemplo/WhileExemplo.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/WhileExemplo/WhileExemplo/bin/Debug/WhileExemplo.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/WhileExemplo/WhileExemplo/bin/Debug/WhileExemplo.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/WhileExemplo/WhileExemplo/bin/Debug/WhileExemplo.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/WhileExemplo/WhileExemplo/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/WhileExemplo/WhileExemplo/obj/Debug/WhileExemplo.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/WhileExemplo/WhileExemplo/obj/Debug/WhileExemplo.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/WhileExemplo/WhileExemplo/obj/Debug/WhileExemplo.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../MOD02/Exercicios/WhileExemplo/WhileExemplo/obj/Debug/WhileExemplo.pdb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1Y2NbVCYUDMHkaDmsBmA1rBzpxo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Teste01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a38a273-e226-4f5b-aa1c-0e3f2de0174a" name="Default Changelist" comment="" />
+      <created>1582136800866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582136800866</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1345" height="174" key="GridCell.Tab.0.bottom" timestamp="1582383316905">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1659" height="265" key="GridCell.Tab.0.bottom/0.0.1366.728/-1680.-289.1680.1010@-1680.-289.1680.1010" timestamp="1582143699493" />
+    <state width="1345" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582383316905" />
+    <state width="1345" height="174" key="GridCell.Tab.0.center" timestamp="1582383316902">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1659" height="265" key="GridCell.Tab.0.center/0.0.1366.728/-1680.-289.1680.1010@-1680.-289.1680.1010" timestamp="1582143699493" />
+    <state width="1345" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582383316902" />
+    <state width="1345" height="174" key="GridCell.Tab.0.left" timestamp="1582383316901">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1659" height="265" key="GridCell.Tab.0.left/0.0.1366.728/-1680.-289.1680.1010@-1680.-289.1680.1010" timestamp="1582143699492" />
+    <state width="1345" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582383316901" />
+    <state width="1345" height="174" key="GridCell.Tab.0.right" timestamp="1582383316904">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1659" height="265" key="GridCell.Tab.0.right/0.0.1366.728/-1680.-289.1680.1010@-1680.-289.1680.1010" timestamp="1582143699493" />
+    <state width="1345" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582383316904" />
+    <state width="1659" height="336" key="GridCell.Tab.1.bottom" timestamp="1582139702747">
+      <screen x="-1680" y="-289" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="336" key="GridCell.Tab.1.bottom/0.0.1366.728/-1680.-289.1680.1010@-1680.-289.1680.1010" timestamp="1582139702747" />
+    <state width="1659" height="336" key="GridCell.Tab.1.center" timestamp="1582139702747">
+      <screen x="-1680" y="-289" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="336" key="GridCell.Tab.1.center/0.0.1366.728/-1680.-289.1680.1010@-1680.-289.1680.1010" timestamp="1582139702747" />
+    <state width="1659" height="336" key="GridCell.Tab.1.left" timestamp="1582139702747">
+      <screen x="-1680" y="-289" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="336" key="GridCell.Tab.1.left/0.0.1366.728/-1680.-289.1680.1010@-1680.-289.1680.1010" timestamp="1582139702747" />
+    <state width="1659" height="336" key="GridCell.Tab.1.right" timestamp="1582139702747">
+      <screen x="-1680" y="-289" width="1680" height="1010" />
+    </state>
+    <state width="1659" height="336" key="GridCell.Tab.1.right/0.0.1366.728/-1680.-289.1680.1010@-1680.-289.1680.1010" timestamp="1582139702747" />
+  </component>
+</project>

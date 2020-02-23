@@ -1,0 +1,6 @@
+C:\Users\Rafael\Desktop\Escola\testeazoia\testeazoia\bin\Debug\testeazoia.exe.config
+C:\Users\Rafael\Desktop\Escola\testeazoia\testeazoia\bin\Debug\testeazoia.exe
+C:\Users\Rafael\Desktop\Escola\testeazoia\testeazoia\bin\Debug\testeazoia.pdb
+C:\Users\Rafael\Desktop\Escola\testeazoia\testeazoia\obj\Debug\testeazoia.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Escola\testeazoia\testeazoia\obj\Debug\testeazoia.exe
+C:\Users\Rafael\Desktop\Escola\testeazoia\testeazoia\obj\Debug\testeazoia.pdb

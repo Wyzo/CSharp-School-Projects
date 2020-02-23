@@ -1,0 +1,6 @@
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\WhileExemplo\WhileExemplo\bin\Debug\WhileExemplo.exe.config
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\WhileExemplo\WhileExemplo\bin\Debug\WhileExemplo.exe
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\WhileExemplo\WhileExemplo\bin\Debug\WhileExemplo.pdb
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\WhileExemplo\WhileExemplo\obj\Debug\WhileExemplo.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\WhileExemplo\WhileExemplo\obj\Debug\WhileExemplo.exe
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\WhileExemplo\WhileExemplo\obj\Debug\WhileExemplo.pdb

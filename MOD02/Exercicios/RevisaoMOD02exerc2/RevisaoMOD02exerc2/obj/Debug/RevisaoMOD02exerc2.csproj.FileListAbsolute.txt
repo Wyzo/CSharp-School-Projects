@@ -1,0 +1,6 @@
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\RevisaoMOD02exerc2\RevisaoMOD02exerc2\bin\Debug\RevisaoMOD02exerc2.exe.config
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\RevisaoMOD02exerc2\RevisaoMOD02exerc2\bin\Debug\RevisaoMOD02exerc2.exe
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\RevisaoMOD02exerc2\RevisaoMOD02exerc2\bin\Debug\RevisaoMOD02exerc2.pdb
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\RevisaoMOD02exerc2\RevisaoMOD02exerc2\obj\Debug\RevisaoMOD02exerc2.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\RevisaoMOD02exerc2\RevisaoMOD02exerc2\obj\Debug\RevisaoMOD02exerc2.exe
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\RevisaoMOD02exerc2\RevisaoMOD02exerc2\obj\Debug\RevisaoMOD02exerc2.pdb

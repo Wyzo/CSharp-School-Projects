@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOD03_DESAFIO03_5", "MOD03_DESAFIO03_5\MOD03_DESAFIO03_5.csproj", "{430249DB-63DB-46C8-BD4A-15497DA8FE24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{430249DB-63DB-46C8-BD4A-15497DA8FE24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{430249DB-63DB-46C8-BD4A-15497DA8FE24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{430249DB-63DB-46C8-BD4A-15497DA8FE24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{430249DB-63DB-46C8-BD4A-15497DA8FE24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD2CA190-F2F5-47D1-85FA-0421E8BF7E5E}
+	EndGlobalSection
+EndGlobal

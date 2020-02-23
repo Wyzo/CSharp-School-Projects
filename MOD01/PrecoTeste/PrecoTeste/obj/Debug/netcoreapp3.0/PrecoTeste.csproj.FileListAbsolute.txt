@@ -1,0 +1,11 @@
+C:\Users\Rafael\Desktop\PrecoTeste\PrecoTeste\bin\Debug\netcoreapp3.0\PrecoTeste.exe
+C:\Users\Rafael\Desktop\PrecoTeste\PrecoTeste\bin\Debug\netcoreapp3.0\PrecoTeste.deps.json
+C:\Users\Rafael\Desktop\PrecoTeste\PrecoTeste\bin\Debug\netcoreapp3.0\PrecoTeste.runtimeconfig.json
+C:\Users\Rafael\Desktop\PrecoTeste\PrecoTeste\bin\Debug\netcoreapp3.0\PrecoTeste.runtimeconfig.dev.json
+C:\Users\Rafael\Desktop\PrecoTeste\PrecoTeste\bin\Debug\netcoreapp3.0\PrecoTeste.dll
+C:\Users\Rafael\Desktop\PrecoTeste\PrecoTeste\bin\Debug\netcoreapp3.0\PrecoTeste.pdb
+C:\Users\Rafael\Desktop\PrecoTeste\PrecoTeste\obj\Debug\netcoreapp3.0\PrecoTeste.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\PrecoTeste\PrecoTeste\obj\Debug\netcoreapp3.0\PrecoTeste.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\PrecoTeste\PrecoTeste\obj\Debug\netcoreapp3.0\PrecoTeste.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\PrecoTeste\PrecoTeste\obj\Debug\netcoreapp3.0\PrecoTeste.dll
+C:\Users\Rafael\Desktop\PrecoTeste\PrecoTeste\obj\Debug\netcoreapp3.0\PrecoTeste.pdb

@@ -1,0 +1,11 @@
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\RiderTestes\SOFTPAK\SOFTPAK\bin\Debug\netcoreapp3.1\SOFTPAK.exe
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\RiderTestes\SOFTPAK\SOFTPAK\bin\Debug\netcoreapp3.1\SOFTPAK.deps.json
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\RiderTestes\SOFTPAK\SOFTPAK\bin\Debug\netcoreapp3.1\SOFTPAK.runtimeconfig.json
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\RiderTestes\SOFTPAK\SOFTPAK\bin\Debug\netcoreapp3.1\SOFTPAK.runtimeconfig.dev.json
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\RiderTestes\SOFTPAK\SOFTPAK\bin\Debug\netcoreapp3.1\SOFTPAK.dll
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\RiderTestes\SOFTPAK\SOFTPAK\bin\Debug\netcoreapp3.1\SOFTPAK.pdb
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\RiderTestes\SOFTPAK\SOFTPAK\obj\Debug\netcoreapp3.1\SOFTPAK.csprojAssemblyReference.cache
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\RiderTestes\SOFTPAK\SOFTPAK\obj\Debug\netcoreapp3.1\SOFTPAK.AssemblyInfoInputs.cache
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\RiderTestes\SOFTPAK\SOFTPAK\obj\Debug\netcoreapp3.1\SOFTPAK.AssemblyInfo.cs
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\RiderTestes\SOFTPAK\SOFTPAK\obj\Debug\netcoreapp3.1\SOFTPAK.dll
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\RiderTestes\SOFTPAK\SOFTPAK\obj\Debug\netcoreapp3.1\SOFTPAK.pdb

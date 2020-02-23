@@ -1,0 +1,12 @@
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Ciclos2\Ciclos2\obj\Debug\Ciclos2.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Ciclos2\Ciclos2\bin\Debug\Ciclos2.exe.config
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Ciclos2\Ciclos2\bin\Debug\Ciclos2.exe
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Ciclos2\Ciclos2\bin\Debug\Ciclos2.pdb
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Ciclos2\Ciclos2\obj\Debug\Ciclos2.exe
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Ciclos2\Ciclos2\obj\Debug\Ciclos2.pdb
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\Ciclos2\Ciclos2\bin\Debug\Ciclos2.exe.config
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\Ciclos2\Ciclos2\bin\Debug\Ciclos2.exe
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\Ciclos2\Ciclos2\bin\Debug\Ciclos2.pdb
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\Ciclos2\Ciclos2\obj\Debug\Ciclos2.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\Ciclos2\Ciclos2\obj\Debug\Ciclos2.exe
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\Ciclos2\Ciclos2\obj\Debug\Ciclos2.pdb

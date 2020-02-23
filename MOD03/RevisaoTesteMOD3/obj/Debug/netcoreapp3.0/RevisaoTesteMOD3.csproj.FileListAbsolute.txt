@@ -1,0 +1,11 @@
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\RevisaoTesteMOD3\bin\Debug\netcoreapp3.0\RevisaoTesteMOD3.exe
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\RevisaoTesteMOD3\bin\Debug\netcoreapp3.0\RevisaoTesteMOD3.deps.json
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\RevisaoTesteMOD3\bin\Debug\netcoreapp3.0\RevisaoTesteMOD3.runtimeconfig.json
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\RevisaoTesteMOD3\bin\Debug\netcoreapp3.0\RevisaoTesteMOD3.runtimeconfig.dev.json
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\RevisaoTesteMOD3\bin\Debug\netcoreapp3.0\RevisaoTesteMOD3.dll
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\RevisaoTesteMOD3\bin\Debug\netcoreapp3.0\RevisaoTesteMOD3.pdb
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\RevisaoTesteMOD3\obj\Debug\netcoreapp3.0\RevisaoTesteMOD3.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\RevisaoTesteMOD3\obj\Debug\netcoreapp3.0\RevisaoTesteMOD3.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\RevisaoTesteMOD3\obj\Debug\netcoreapp3.0\RevisaoTesteMOD3.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\RevisaoTesteMOD3\obj\Debug\netcoreapp3.0\RevisaoTesteMOD3.dll
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\RevisaoTesteMOD3\obj\Debug\netcoreapp3.0\RevisaoTesteMOD3.pdb

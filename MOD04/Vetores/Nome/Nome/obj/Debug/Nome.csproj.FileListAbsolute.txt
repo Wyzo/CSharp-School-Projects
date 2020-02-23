@@ -1,0 +1,6 @@
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD04\Vetores\Nome\Nome\bin\Debug\Nome.exe.config
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD04\Vetores\Nome\Nome\bin\Debug\Nome.exe
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD04\Vetores\Nome\Nome\bin\Debug\Nome.pdb
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD04\Vetores\Nome\Nome\obj\Debug\Nome.exe
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD04\Vetores\Nome\Nome\obj\Debug\Nome.pdb
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD04\Vetores\Nome\Nome\obj\Debug\Nome.csprojAssemblyReference.cache

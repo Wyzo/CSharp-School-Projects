@@ -1,0 +1,6 @@
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD04\Vetores\Revisoes\Revisoes\bin\Debug\Revisoes.exe.config
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD04\Vetores\Revisoes\Revisoes\bin\Debug\Revisoes.exe
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD04\Vetores\Revisoes\Revisoes\bin\Debug\Revisoes.pdb
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD04\Vetores\Revisoes\Revisoes\obj\Debug\Revisoes.csprojAssemblyReference.cache
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD04\Vetores\Revisoes\Revisoes\obj\Debug\Revisoes.exe
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD04\Vetores\Revisoes\Revisoes\obj\Debug\Revisoes.pdb

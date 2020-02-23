@@ -1,0 +1,6 @@
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\NumPrimo\NumPrimo\bin\Debug\NumPrimo.exe.config
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\NumPrimo\NumPrimo\bin\Debug\NumPrimo.exe
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\NumPrimo\NumPrimo\bin\Debug\NumPrimo.pdb
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\NumPrimo\NumPrimo\obj\Debug\NumPrimo.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\NumPrimo\NumPrimo\obj\Debug\NumPrimo.exe
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\NumPrimo\NumPrimo\obj\Debug\NumPrimo.pdb

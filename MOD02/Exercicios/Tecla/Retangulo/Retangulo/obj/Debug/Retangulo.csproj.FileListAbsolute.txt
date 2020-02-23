@@ -1,0 +1,6 @@
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Retangulo\Retangulo\bin\Debug\Retangulo.exe.config
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Retangulo\Retangulo\bin\Debug\Retangulo.exe
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Retangulo\Retangulo\bin\Debug\Retangulo.pdb
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Retangulo\Retangulo\obj\Debug\Retangulo.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Retangulo\Retangulo\obj\Debug\Retangulo.exe
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Retangulo\Retangulo\obj\Debug\Retangulo.pdb

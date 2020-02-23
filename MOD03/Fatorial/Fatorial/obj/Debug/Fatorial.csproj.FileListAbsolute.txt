@@ -1,0 +1,6 @@
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\Fatorial\Fatorial\bin\Debug\Fatorial.exe.config
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\Fatorial\Fatorial\bin\Debug\Fatorial.exe
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\Fatorial\Fatorial\bin\Debug\Fatorial.pdb
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\Fatorial\Fatorial\obj\Debug\Fatorial.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\Fatorial\Fatorial\obj\Debug\Fatorial.exe
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\Fatorial\Fatorial\obj\Debug\Fatorial.pdb

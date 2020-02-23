@@ -1,0 +1,11 @@
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD05\Estrutras\MO5_REVISOES\MO5_REVISOES\bin\Debug\netcoreapp3.1\MO5_REVISOES.exe
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD05\Estrutras\MO5_REVISOES\MO5_REVISOES\bin\Debug\netcoreapp3.1\MO5_REVISOES.deps.json
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD05\Estrutras\MO5_REVISOES\MO5_REVISOES\bin\Debug\netcoreapp3.1\MO5_REVISOES.runtimeconfig.json
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD05\Estrutras\MO5_REVISOES\MO5_REVISOES\bin\Debug\netcoreapp3.1\MO5_REVISOES.runtimeconfig.dev.json
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD05\Estrutras\MO5_REVISOES\MO5_REVISOES\bin\Debug\netcoreapp3.1\MO5_REVISOES.dll
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD05\Estrutras\MO5_REVISOES\MO5_REVISOES\bin\Debug\netcoreapp3.1\MO5_REVISOES.pdb
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD05\Estrutras\MO5_REVISOES\MO5_REVISOES\obj\Debug\netcoreapp3.1\MO5_REVISOES.csprojAssemblyReference.cache
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD05\Estrutras\MO5_REVISOES\MO5_REVISOES\obj\Debug\netcoreapp3.1\MO5_REVISOES.AssemblyInfoInputs.cache
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD05\Estrutras\MO5_REVISOES\MO5_REVISOES\obj\Debug\netcoreapp3.1\MO5_REVISOES.AssemblyInfo.cs
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD05\Estrutras\MO5_REVISOES\MO5_REVISOES\obj\Debug\netcoreapp3.1\MO5_REVISOES.dll
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD05\Estrutras\MO5_REVISOES\MO5_REVISOES\obj\Debug\netcoreapp3.1\MO5_REVISOES.pdb

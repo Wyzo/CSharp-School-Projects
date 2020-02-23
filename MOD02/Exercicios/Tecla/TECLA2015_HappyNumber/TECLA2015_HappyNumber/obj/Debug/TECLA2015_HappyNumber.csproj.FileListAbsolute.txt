@@ -1,0 +1,6 @@
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\TECLA2015_HappyNumber\TECLA2015_HappyNumber\bin\Debug\TECLA2015_HappyNumber.exe.config
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\TECLA2015_HappyNumber\TECLA2015_HappyNumber\bin\Debug\TECLA2015_HappyNumber.exe
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\TECLA2015_HappyNumber\TECLA2015_HappyNumber\bin\Debug\TECLA2015_HappyNumber.pdb
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\TECLA2015_HappyNumber\TECLA2015_HappyNumber\obj\Debug\TECLA2015_HappyNumber.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\TECLA2015_HappyNumber\TECLA2015_HappyNumber\obj\Debug\TECLA2015_HappyNumber.exe
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\TECLA2015_HappyNumber\TECLA2015_HappyNumber\obj\Debug\TECLA2015_HappyNumber.pdb

@@ -1,0 +1,11 @@
+C:\Users\Rafael\Desktop\Escola\RubenRevisao\RubenRevisao\bin\Debug\netcoreapp3.0\RubenRevisao.exe
+C:\Users\Rafael\Desktop\Escola\RubenRevisao\RubenRevisao\bin\Debug\netcoreapp3.0\RubenRevisao.deps.json
+C:\Users\Rafael\Desktop\Escola\RubenRevisao\RubenRevisao\bin\Debug\netcoreapp3.0\RubenRevisao.runtimeconfig.json
+C:\Users\Rafael\Desktop\Escola\RubenRevisao\RubenRevisao\bin\Debug\netcoreapp3.0\RubenRevisao.runtimeconfig.dev.json
+C:\Users\Rafael\Desktop\Escola\RubenRevisao\RubenRevisao\bin\Debug\netcoreapp3.0\RubenRevisao.dll
+C:\Users\Rafael\Desktop\Escola\RubenRevisao\RubenRevisao\bin\Debug\netcoreapp3.0\RubenRevisao.pdb
+C:\Users\Rafael\Desktop\Escola\RubenRevisao\RubenRevisao\obj\Debug\netcoreapp3.0\RubenRevisao.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Escola\RubenRevisao\RubenRevisao\obj\Debug\netcoreapp3.0\RubenRevisao.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Escola\RubenRevisao\RubenRevisao\obj\Debug\netcoreapp3.0\RubenRevisao.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Escola\RubenRevisao\RubenRevisao\obj\Debug\netcoreapp3.0\RubenRevisao.dll
+C:\Users\Rafael\Desktop\Escola\RubenRevisao\RubenRevisao\obj\Debug\netcoreapp3.0\RubenRevisao.pdb

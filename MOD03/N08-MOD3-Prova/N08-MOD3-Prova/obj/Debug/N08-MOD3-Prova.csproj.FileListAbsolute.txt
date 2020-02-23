@@ -1,0 +1,6 @@
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\N08-MOD3-Prova\N08-MOD3-Prova\bin\Debug\N08-MOD3-Prova.exe.config
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\N08-MOD3-Prova\N08-MOD3-Prova\bin\Debug\N08-MOD3-Prova.exe
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\N08-MOD3-Prova\N08-MOD3-Prova\bin\Debug\N08-MOD3-Prova.pdb
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\N08-MOD3-Prova\N08-MOD3-Prova\obj\Debug\N08-MOD3-Prova.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\N08-MOD3-Prova\N08-MOD3-Prova\obj\Debug\N08-MOD3-Prova.exe
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\N08-MOD3-Prova\N08-MOD3-Prova\obj\Debug\N08-MOD3-Prova.pdb

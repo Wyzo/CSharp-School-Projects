@@ -1,0 +1,6 @@
+C:\Users\Rafael\Desktop\Escola\VerificacaoDoCC\VerificacaoDoCC\bin\Debug\VerificacaoDoCC.exe.config
+C:\Users\Rafael\Desktop\Escola\VerificacaoDoCC\VerificacaoDoCC\bin\Debug\VerificacaoDoCC.exe
+C:\Users\Rafael\Desktop\Escola\VerificacaoDoCC\VerificacaoDoCC\bin\Debug\VerificacaoDoCC.pdb
+C:\Users\Rafael\Desktop\Escola\VerificacaoDoCC\VerificacaoDoCC\obj\Debug\VerificacaoDoCC.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Escola\VerificacaoDoCC\VerificacaoDoCC\obj\Debug\VerificacaoDoCC.exe
+C:\Users\Rafael\Desktop\Escola\VerificacaoDoCC\VerificacaoDoCC\obj\Debug\VerificacaoDoCC.pdb

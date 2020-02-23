@@ -1,0 +1,13 @@
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\Functions\Functions\obj\Debug\Functions.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\Functions\Functions\bin\Debug\Functions.exe.config
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\Functions\Functions\bin\Debug\Functions.exe
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\Functions\Functions\bin\Debug\Functions.pdb
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\Functions\Functions\obj\Debug\Functions.exe
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\Functions\Functions\obj\Debug\Functions.pdb
+C:\Users\professor\Desktop\Functions\Functions\bin\Debug\Functions.exe.config
+C:\Users\professor\Desktop\Functions\Functions\bin\Debug\Functions.exe
+C:\Users\professor\Desktop\Functions\Functions\bin\Debug\Functions.pdb
+C:\Users\professor\Desktop\Functions\Functions\obj\Debug\Functions.csprojAssemblyReference.cache
+C:\Users\professor\Desktop\Functions\Functions\obj\Debug\Functions.csproj.CoreCompileInputs.cache
+C:\Users\professor\Desktop\Functions\Functions\obj\Debug\Functions.exe
+C:\Users\professor\Desktop\Functions\Functions\obj\Debug\Functions.pdb

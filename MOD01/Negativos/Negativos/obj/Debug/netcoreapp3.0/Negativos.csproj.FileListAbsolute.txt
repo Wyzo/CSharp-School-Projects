@@ -1,0 +1,11 @@
+C:\Users\Rafael\Desktop\Escola\Negativos\Negativos\bin\Debug\netcoreapp3.0\Negativos.exe
+C:\Users\Rafael\Desktop\Escola\Negativos\Negativos\bin\Debug\netcoreapp3.0\Negativos.deps.json
+C:\Users\Rafael\Desktop\Escola\Negativos\Negativos\bin\Debug\netcoreapp3.0\Negativos.runtimeconfig.json
+C:\Users\Rafael\Desktop\Escola\Negativos\Negativos\bin\Debug\netcoreapp3.0\Negativos.runtimeconfig.dev.json
+C:\Users\Rafael\Desktop\Escola\Negativos\Negativos\bin\Debug\netcoreapp3.0\Negativos.dll
+C:\Users\Rafael\Desktop\Escola\Negativos\Negativos\bin\Debug\netcoreapp3.0\Negativos.pdb
+C:\Users\Rafael\Desktop\Escola\Negativos\Negativos\obj\Debug\netcoreapp3.0\Negativos.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Escola\Negativos\Negativos\obj\Debug\netcoreapp3.0\Negativos.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Escola\Negativos\Negativos\obj\Debug\netcoreapp3.0\Negativos.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Escola\Negativos\Negativos\obj\Debug\netcoreapp3.0\Negativos.dll
+C:\Users\Rafael\Desktop\Escola\Negativos\Negativos\obj\Debug\netcoreapp3.0\Negativos.pdb

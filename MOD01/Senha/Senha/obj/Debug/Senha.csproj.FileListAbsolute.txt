@@ -1,0 +1,6 @@
+C:\Users\Rafael\Desktop\Escola\Senha\Senha\bin\Debug\Senha.exe.config
+C:\Users\Rafael\Desktop\Escola\Senha\Senha\bin\Debug\Senha.exe
+C:\Users\Rafael\Desktop\Escola\Senha\Senha\bin\Debug\Senha.pdb
+C:\Users\Rafael\Desktop\Escola\Senha\Senha\obj\Debug\Senha.exe
+C:\Users\Rafael\Desktop\Escola\Senha\Senha\obj\Debug\Senha.pdb
+C:\Users\Rafael\Desktop\Escola\Senha\Senha\obj\Debug\Senha.csprojAssemblyReference.cache

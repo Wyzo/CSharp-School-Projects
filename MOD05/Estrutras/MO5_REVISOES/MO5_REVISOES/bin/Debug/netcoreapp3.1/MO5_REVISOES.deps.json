@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MO5_REVISOES/1.0.0": {
+        "runtime": {
+          "MO5_REVISOES.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MO5_REVISOES/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

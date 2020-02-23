@@ -1,0 +1,12 @@
+C:\Users\Rafael\Desktop\EscolaMOD02\Universidade\Universidade\bin\Debug\Universidade.exe.config
+C:\Users\Rafael\Desktop\EscolaMOD02\Universidade\Universidade\bin\Debug\Universidade.exe
+C:\Users\Rafael\Desktop\EscolaMOD02\Universidade\Universidade\bin\Debug\Universidade.pdb
+C:\Users\Rafael\Desktop\EscolaMOD02\Universidade\Universidade\obj\Debug\Universidade.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\EscolaMOD02\Universidade\Universidade\obj\Debug\Universidade.exe
+C:\Users\Rafael\Desktop\EscolaMOD02\Universidade\Universidade\obj\Debug\Universidade.pdb
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Universidade\Universidade\bin\Debug\Universidade.exe.config
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Universidade\Universidade\bin\Debug\Universidade.exe
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Universidade\Universidade\bin\Debug\Universidade.pdb
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Universidade\Universidade\obj\Debug\Universidade.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Universidade\Universidade\obj\Debug\Universidade.exe
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Universidade\Universidade\obj\Debug\Universidade.pdb

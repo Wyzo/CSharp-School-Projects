@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "RevisaoTesteMOD3/1.0.0": {
+        "runtime": {
+          "RevisaoTesteMOD3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RevisaoTesteMOD3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

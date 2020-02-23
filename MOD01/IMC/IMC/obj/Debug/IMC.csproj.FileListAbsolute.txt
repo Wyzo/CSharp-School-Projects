@@ -1,0 +1,6 @@
+C:\Users\Rafael\Desktop\Escola\IMC\IMC\bin\Debug\IMC.exe.config
+C:\Users\Rafael\Desktop\Escola\IMC\IMC\bin\Debug\IMC.exe
+C:\Users\Rafael\Desktop\Escola\IMC\IMC\bin\Debug\IMC.pdb
+C:\Users\Rafael\Desktop\Escola\IMC\IMC\obj\Debug\IMC.exe
+C:\Users\Rafael\Desktop\Escola\IMC\IMC\obj\Debug\IMC.pdb
+C:\Users\Rafael\Desktop\Escola\IMC\IMC\obj\Debug\IMC.csprojAssemblyReference.cache

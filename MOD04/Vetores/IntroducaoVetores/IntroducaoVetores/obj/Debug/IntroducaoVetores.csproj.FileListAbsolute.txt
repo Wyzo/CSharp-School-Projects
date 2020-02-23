@@ -1,0 +1,6 @@
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD04\Vetores\IntroducaoVetores\IntroducaoVetores\bin\Debug\IntroducaoVetores.exe.config
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD04\Vetores\IntroducaoVetores\IntroducaoVetores\bin\Debug\IntroducaoVetores.exe
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD04\Vetores\IntroducaoVetores\IntroducaoVetores\bin\Debug\IntroducaoVetores.pdb
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD04\Vetores\IntroducaoVetores\IntroducaoVetores\obj\Debug\IntroducaoVetores.csprojAssemblyReference.cache
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD04\Vetores\IntroducaoVetores\IntroducaoVetores\obj\Debug\IntroducaoVetores.exe
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD04\Vetores\IntroducaoVetores\IntroducaoVetores\obj\Debug\IntroducaoVetores.pdb

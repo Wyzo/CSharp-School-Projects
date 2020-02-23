@@ -1,0 +1,6 @@
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD04\Vetores\Desafio1_01\Desafio1_01\bin\Debug\Desafio1_01.exe.config
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD04\Vetores\Desafio1_01\Desafio1_01\bin\Debug\Desafio1_01.exe
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD04\Vetores\Desafio1_01\Desafio1_01\bin\Debug\Desafio1_01.pdb
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD04\Vetores\Desafio1_01\Desafio1_01\obj\Debug\Desafio1_01.csprojAssemblyReference.cache
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD04\Vetores\Desafio1_01\Desafio1_01\obj\Debug\Desafio1_01.exe
+C:\Users\Lurdes\Desktop\Geral\Escola\PSI CLASSES\MOD04\Vetores\Desafio1_01\Desafio1_01\obj\Debug\Desafio1_01.pdb

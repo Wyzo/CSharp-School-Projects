@@ -1,0 +1,11 @@
+C:\Users\Rafael\Desktop\Escola\Desafio\Desafio\bin\Debug\netcoreapp3.0\Desafio.exe
+C:\Users\Rafael\Desktop\Escola\Desafio\Desafio\bin\Debug\netcoreapp3.0\Desafio.deps.json
+C:\Users\Rafael\Desktop\Escola\Desafio\Desafio\bin\Debug\netcoreapp3.0\Desafio.runtimeconfig.json
+C:\Users\Rafael\Desktop\Escola\Desafio\Desafio\bin\Debug\netcoreapp3.0\Desafio.runtimeconfig.dev.json
+C:\Users\Rafael\Desktop\Escola\Desafio\Desafio\bin\Debug\netcoreapp3.0\Desafio.dll
+C:\Users\Rafael\Desktop\Escola\Desafio\Desafio\bin\Debug\netcoreapp3.0\Desafio.pdb
+C:\Users\Rafael\Desktop\Escola\Desafio\Desafio\obj\Debug\netcoreapp3.0\Desafio.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Escola\Desafio\Desafio\obj\Debug\netcoreapp3.0\Desafio.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Escola\Desafio\Desafio\obj\Debug\netcoreapp3.0\Desafio.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Escola\Desafio\Desafio\obj\Debug\netcoreapp3.0\Desafio.dll
+C:\Users\Rafael\Desktop\Escola\Desafio\Desafio\obj\Debug\netcoreapp3.0\Desafio.pdb

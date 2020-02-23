@@ -1,0 +1,49 @@
+﻿Programa_IMC
+
+[Dados de entrada]
+Peso:inteiro
+Altura:double
+
+[Dados intermédios]
+Altura2:double
+
+[Dados de saída]
+IMC:double
+
+[Input]
+Ler (Peso)
+Ler (Altura)
+
+[Processamento]
+Altura2<-- Math.Pow(Altura , 2)
+IMC <-- Peso / Altura2
+
+[Output]
+Escrever (O seu IMC é {0:F0}.)
+Escrever (Se o seu IMC for <18,5 --> Magro ou abaixo do peso ideal.)
+Escrever (Se o seu IMC for 18,5 - 24,9 --> Normal.)
+Escrever (Se o seu IMC for 25 - 29,9 --> Sobrepeso.)
+Escrever (Se o seu IMC for 30 - 34,99 --> Obesidade.)
+Escrever (Se o seu IMC for >= 40 -> Obesidade Elevada.)
+
+
+============================
+Proposta de Francisco Duarte
+============================
+
+
+Algoritmo CalculaIMC
+[Este algoritmo permite calcular o IMC de uma pessoa]
+
+DADOS
+	Peso, Altura, AlturaAoQuadrado: real
+INÍCIO
+	Escrever("Digite o seu peso (Kg's)")
+	Ler(Peso)
+	Escrever("Digite a sua altura (M's)")
+	Ler(Altura)
+	AlturaAoQuadrado <-- Altura * Altura
+	IMC = Peso / AlturaAoQuadrado
+	Escrever("O valor do seu IMC é de {0}", AlturaAoQuadrado)
+FIM
+

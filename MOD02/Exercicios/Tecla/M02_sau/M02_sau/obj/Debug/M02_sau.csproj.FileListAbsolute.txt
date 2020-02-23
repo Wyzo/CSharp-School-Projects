@@ -1,0 +1,6 @@
+C:\Users\Rafael\Desktop\Escola\M02_sau\M02_sau\bin\Debug\M02_sau.exe.config
+C:\Users\Rafael\Desktop\Escola\M02_sau\M02_sau\bin\Debug\M02_sau.exe
+C:\Users\Rafael\Desktop\Escola\M02_sau\M02_sau\bin\Debug\M02_sau.pdb
+C:\Users\Rafael\Desktop\Escola\M02_sau\M02_sau\obj\Debug\M02_sau.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Escola\M02_sau\M02_sau\obj\Debug\M02_sau.exe
+C:\Users\Rafael\Desktop\Escola\M02_sau\M02_sau\obj\Debug\M02_sau.pdb

@@ -1,0 +1,6 @@
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Desafios\ProximaSementeira\ProximaSementeira\bin\Debug\ProximaSementeira.exe.config
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Desafios\ProximaSementeira\ProximaSementeira\bin\Debug\ProximaSementeira.exe
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Desafios\ProximaSementeira\ProximaSementeira\bin\Debug\ProximaSementeira.pdb
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Desafios\ProximaSementeira\ProximaSementeira\obj\Debug\ProximaSementeira.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Desafios\ProximaSementeira\ProximaSementeira\obj\Debug\ProximaSementeira.exe
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Desafios\ProximaSementeira\ProximaSementeira\obj\Debug\ProximaSementeira.pdb

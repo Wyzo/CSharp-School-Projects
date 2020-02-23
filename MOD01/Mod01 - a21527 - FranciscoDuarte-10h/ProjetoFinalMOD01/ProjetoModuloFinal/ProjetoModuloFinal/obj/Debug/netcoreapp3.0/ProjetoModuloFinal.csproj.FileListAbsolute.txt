@@ -1,0 +1,33 @@
+C:\Users\Rafael\Desktop\Escola\ProjetoModuloFinal\ProjetoModuloFinal\bin\Debug\netcoreapp3.0\ProjetoModuloFinal.exe
+C:\Users\Rafael\Desktop\Escola\ProjetoModuloFinal\ProjetoModuloFinal\bin\Debug\netcoreapp3.0\ProjetoModuloFinal.deps.json
+C:\Users\Rafael\Desktop\Escola\ProjetoModuloFinal\ProjetoModuloFinal\bin\Debug\netcoreapp3.0\ProjetoModuloFinal.runtimeconfig.json
+C:\Users\Rafael\Desktop\Escola\ProjetoModuloFinal\ProjetoModuloFinal\bin\Debug\netcoreapp3.0\ProjetoModuloFinal.runtimeconfig.dev.json
+C:\Users\Rafael\Desktop\Escola\ProjetoModuloFinal\ProjetoModuloFinal\bin\Debug\netcoreapp3.0\ProjetoModuloFinal.dll
+C:\Users\Rafael\Desktop\Escola\ProjetoModuloFinal\ProjetoModuloFinal\bin\Debug\netcoreapp3.0\ProjetoModuloFinal.pdb
+C:\Users\Rafael\Desktop\Escola\ProjetoModuloFinal\ProjetoModuloFinal\obj\Debug\netcoreapp3.0\ProjetoModuloFinal.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Escola\ProjetoModuloFinal\ProjetoModuloFinal\obj\Debug\netcoreapp3.0\ProjetoModuloFinal.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Escola\ProjetoModuloFinal\ProjetoModuloFinal\obj\Debug\netcoreapp3.0\ProjetoModuloFinal.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Escola\ProjetoModuloFinal\ProjetoModuloFinal\obj\Debug\netcoreapp3.0\ProjetoModuloFinal.dll
+C:\Users\Rafael\Desktop\Escola\ProjetoModuloFinal\ProjetoModuloFinal\obj\Debug\netcoreapp3.0\ProjetoModuloFinal.pdb
+C:\Users\Rafael\Desktop\Portefólio\ProjetoFinalMOD01\ProjetoModuloFinal\ProjetoModuloFinal\bin\Debug\netcoreapp3.0\ProjetoModuloFinal.exe
+C:\Users\Rafael\Desktop\Portefólio\ProjetoFinalMOD01\ProjetoModuloFinal\ProjetoModuloFinal\bin\Debug\netcoreapp3.0\ProjetoModuloFinal.deps.json
+C:\Users\Rafael\Desktop\Portefólio\ProjetoFinalMOD01\ProjetoModuloFinal\ProjetoModuloFinal\bin\Debug\netcoreapp3.0\ProjetoModuloFinal.runtimeconfig.json
+C:\Users\Rafael\Desktop\Portefólio\ProjetoFinalMOD01\ProjetoModuloFinal\ProjetoModuloFinal\bin\Debug\netcoreapp3.0\ProjetoModuloFinal.runtimeconfig.dev.json
+C:\Users\Rafael\Desktop\Portefólio\ProjetoFinalMOD01\ProjetoModuloFinal\ProjetoModuloFinal\bin\Debug\netcoreapp3.0\ProjetoModuloFinal.dll
+C:\Users\Rafael\Desktop\Portefólio\ProjetoFinalMOD01\ProjetoModuloFinal\ProjetoModuloFinal\bin\Debug\netcoreapp3.0\ProjetoModuloFinal.pdb
+C:\Users\Rafael\Desktop\Portefólio\ProjetoFinalMOD01\ProjetoModuloFinal\ProjetoModuloFinal\obj\Debug\netcoreapp3.0\ProjetoModuloFinal.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Portefólio\ProjetoFinalMOD01\ProjetoModuloFinal\ProjetoModuloFinal\obj\Debug\netcoreapp3.0\ProjetoModuloFinal.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Portefólio\ProjetoFinalMOD01\ProjetoModuloFinal\ProjetoModuloFinal\obj\Debug\netcoreapp3.0\ProjetoModuloFinal.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Portefólio\ProjetoFinalMOD01\ProjetoModuloFinal\ProjetoModuloFinal\obj\Debug\netcoreapp3.0\ProjetoModuloFinal.dll
+C:\Users\Rafael\Desktop\Portefólio\ProjetoFinalMOD01\ProjetoModuloFinal\ProjetoModuloFinal\obj\Debug\netcoreapp3.0\ProjetoModuloFinal.pdb
+C:\Users\Rafael\Desktop\Gerais\Mod01 - a21527 - FranciscoDuarte-10h\ProjetoFinalMOD01\ProjetoModuloFinal\ProjetoModuloFinal\bin\Debug\netcoreapp3.0\ProjetoModuloFinal.exe
+C:\Users\Rafael\Desktop\Gerais\Mod01 - a21527 - FranciscoDuarte-10h\ProjetoFinalMOD01\ProjetoModuloFinal\ProjetoModuloFinal\bin\Debug\netcoreapp3.0\ProjetoModuloFinal.deps.json
+C:\Users\Rafael\Desktop\Gerais\Mod01 - a21527 - FranciscoDuarte-10h\ProjetoFinalMOD01\ProjetoModuloFinal\ProjetoModuloFinal\bin\Debug\netcoreapp3.0\ProjetoModuloFinal.runtimeconfig.json
+C:\Users\Rafael\Desktop\Gerais\Mod01 - a21527 - FranciscoDuarte-10h\ProjetoFinalMOD01\ProjetoModuloFinal\ProjetoModuloFinal\bin\Debug\netcoreapp3.0\ProjetoModuloFinal.runtimeconfig.dev.json
+C:\Users\Rafael\Desktop\Gerais\Mod01 - a21527 - FranciscoDuarte-10h\ProjetoFinalMOD01\ProjetoModuloFinal\ProjetoModuloFinal\bin\Debug\netcoreapp3.0\ProjetoModuloFinal.dll
+C:\Users\Rafael\Desktop\Gerais\Mod01 - a21527 - FranciscoDuarte-10h\ProjetoFinalMOD01\ProjetoModuloFinal\ProjetoModuloFinal\bin\Debug\netcoreapp3.0\ProjetoModuloFinal.pdb
+C:\Users\Rafael\Desktop\Gerais\Mod01 - a21527 - FranciscoDuarte-10h\ProjetoFinalMOD01\ProjetoModuloFinal\ProjetoModuloFinal\obj\Debug\netcoreapp3.0\ProjetoModuloFinal.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Gerais\Mod01 - a21527 - FranciscoDuarte-10h\ProjetoFinalMOD01\ProjetoModuloFinal\ProjetoModuloFinal\obj\Debug\netcoreapp3.0\ProjetoModuloFinal.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Gerais\Mod01 - a21527 - FranciscoDuarte-10h\ProjetoFinalMOD01\ProjetoModuloFinal\ProjetoModuloFinal\obj\Debug\netcoreapp3.0\ProjetoModuloFinal.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Gerais\Mod01 - a21527 - FranciscoDuarte-10h\ProjetoFinalMOD01\ProjetoModuloFinal\ProjetoModuloFinal\obj\Debug\netcoreapp3.0\ProjetoModuloFinal.dll
+C:\Users\Rafael\Desktop\Gerais\Mod01 - a21527 - FranciscoDuarte-10h\ProjetoFinalMOD01\ProjetoModuloFinal\ProjetoModuloFinal\obj\Debug\netcoreapp3.0\ProjetoModuloFinal.pdb

@@ -1,0 +1,11 @@
+C:\Users\Rafael\Desktop\Escola\ProvaAutomobilismo\ProvaAutomobilismo\bin\Debug\netcoreapp3.0\ProvaAutomobilismo.exe
+C:\Users\Rafael\Desktop\Escola\ProvaAutomobilismo\ProvaAutomobilismo\bin\Debug\netcoreapp3.0\ProvaAutomobilismo.deps.json
+C:\Users\Rafael\Desktop\Escola\ProvaAutomobilismo\ProvaAutomobilismo\bin\Debug\netcoreapp3.0\ProvaAutomobilismo.runtimeconfig.json
+C:\Users\Rafael\Desktop\Escola\ProvaAutomobilismo\ProvaAutomobilismo\bin\Debug\netcoreapp3.0\ProvaAutomobilismo.runtimeconfig.dev.json
+C:\Users\Rafael\Desktop\Escola\ProvaAutomobilismo\ProvaAutomobilismo\bin\Debug\netcoreapp3.0\ProvaAutomobilismo.dll
+C:\Users\Rafael\Desktop\Escola\ProvaAutomobilismo\ProvaAutomobilismo\bin\Debug\netcoreapp3.0\ProvaAutomobilismo.pdb
+C:\Users\Rafael\Desktop\Escola\ProvaAutomobilismo\ProvaAutomobilismo\obj\Debug\netcoreapp3.0\ProvaAutomobilismo.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Escola\ProvaAutomobilismo\ProvaAutomobilismo\obj\Debug\netcoreapp3.0\ProvaAutomobilismo.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Escola\ProvaAutomobilismo\ProvaAutomobilismo\obj\Debug\netcoreapp3.0\ProvaAutomobilismo.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Escola\ProvaAutomobilismo\ProvaAutomobilismo\obj\Debug\netcoreapp3.0\ProvaAutomobilismo.dll
+C:\Users\Rafael\Desktop\Escola\ProvaAutomobilismo\ProvaAutomobilismo\obj\Debug\netcoreapp3.0\ProvaAutomobilismo.pdb

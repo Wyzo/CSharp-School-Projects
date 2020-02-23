@@ -1,0 +1,6 @@
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\Arvore\Arvore\bin\Debug\Arvore.exe.config
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\Arvore\Arvore\bin\Debug\Arvore.exe
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\Arvore\Arvore\bin\Debug\Arvore.pdb
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\Arvore\Arvore\obj\Debug\Arvore.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\Arvore\Arvore\obj\Debug\Arvore.exe
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD03\Arvore\Arvore\obj\Debug\Arvore.pdb

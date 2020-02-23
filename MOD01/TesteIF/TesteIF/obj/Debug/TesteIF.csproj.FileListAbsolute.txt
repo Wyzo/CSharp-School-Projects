@@ -1,0 +1,6 @@
+C:\Users\Rafael\Desktop\Escola\TesteIF\TesteIF\bin\Debug\TesteIF.exe.config
+C:\Users\Rafael\Desktop\Escola\TesteIF\TesteIF\bin\Debug\TesteIF.exe
+C:\Users\Rafael\Desktop\Escola\TesteIF\TesteIF\bin\Debug\TesteIF.pdb
+C:\Users\Rafael\Desktop\Escola\TesteIF\TesteIF\obj\Debug\TesteIF.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Escola\TesteIF\TesteIF\obj\Debug\TesteIF.exe
+C:\Users\Rafael\Desktop\Escola\TesteIF\TesteIF\obj\Debug\TesteIF.pdb

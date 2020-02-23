@@ -1,0 +1,12 @@
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\Tabuada\Tabuada\bin\Debug\Tabuada.exe.config
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\Tabuada\Tabuada\bin\Debug\Tabuada.exe
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\Tabuada\Tabuada\bin\Debug\Tabuada.pdb
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\Tabuada\Tabuada\obj\Debug\Tabuada.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\Tabuada\Tabuada\obj\Debug\Tabuada.exe
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\Tabuada\Tabuada\obj\Debug\Tabuada.pdb
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\Tabuada\Tabuada\bin\Debug\Tabuada.exe.config
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\Tabuada\Tabuada\bin\Debug\Tabuada.exe
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\Tabuada\Tabuada\bin\Debug\Tabuada.pdb
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\Tabuada\Tabuada\obj\Debug\Tabuada.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\Tabuada\Tabuada\obj\Debug\Tabuada.exe
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\Tabuada\Tabuada\obj\Debug\Tabuada.pdb

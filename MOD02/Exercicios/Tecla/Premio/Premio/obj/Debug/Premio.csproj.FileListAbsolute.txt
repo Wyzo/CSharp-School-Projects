@@ -1,0 +1,12 @@
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Premio\Premio\bin\Debug\Premio.exe.config
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Premio\Premio\bin\Debug\Premio.exe
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Premio\Premio\bin\Debug\Premio.pdb
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Premio\Premio\obj\Debug\Premio.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Premio\Premio\obj\Debug\Premio.exe
+C:\Users\Rafael\Desktop\Gerais\EscolaGera\EscolaMOD02\Premio\Premio\obj\Debug\Premio.pdb
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\Premio\Premio\bin\Debug\Premio.exe.config
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\Premio\Premio\bin\Debug\Premio.exe
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\Premio\Premio\bin\Debug\Premio.pdb
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\Premio\Premio\obj\Debug\Premio.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\Premio\Premio\obj\Debug\Premio.exe
+C:\Users\Rafael\Desktop\Geral\Escola\PSI CLASSES\MOD02\Exercicios\Premio\Premio\obj\Debug\Premio.pdb

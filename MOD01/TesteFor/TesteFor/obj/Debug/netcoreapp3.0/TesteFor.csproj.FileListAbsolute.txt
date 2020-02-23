@@ -1,0 +1,11 @@
+C:\Users\Rafael\Desktop\Escola\TesteFor\TesteFor\bin\Debug\netcoreapp3.0\TesteFor.exe
+C:\Users\Rafael\Desktop\Escola\TesteFor\TesteFor\bin\Debug\netcoreapp3.0\TesteFor.deps.json
+C:\Users\Rafael\Desktop\Escola\TesteFor\TesteFor\bin\Debug\netcoreapp3.0\TesteFor.runtimeconfig.json
+C:\Users\Rafael\Desktop\Escola\TesteFor\TesteFor\bin\Debug\netcoreapp3.0\TesteFor.runtimeconfig.dev.json
+C:\Users\Rafael\Desktop\Escola\TesteFor\TesteFor\bin\Debug\netcoreapp3.0\TesteFor.dll
+C:\Users\Rafael\Desktop\Escola\TesteFor\TesteFor\bin\Debug\netcoreapp3.0\TesteFor.pdb
+C:\Users\Rafael\Desktop\Escola\TesteFor\TesteFor\obj\Debug\netcoreapp3.0\TesteFor.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Escola\TesteFor\TesteFor\obj\Debug\netcoreapp3.0\TesteFor.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Escola\TesteFor\TesteFor\obj\Debug\netcoreapp3.0\TesteFor.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Escola\TesteFor\TesteFor\obj\Debug\netcoreapp3.0\TesteFor.dll
+C:\Users\Rafael\Desktop\Escola\TesteFor\TesteFor\obj\Debug\netcoreapp3.0\TesteFor.pdb
